@@ -10,7 +10,8 @@ fase 1 adicionada junto com os sprites que serão usados do player principal
 - Unity
 - C#
 - Visual Studio
-
+## Funcionalidades Implementadas
+- Visual
 ## Controles do Jogo
 - **Tecla W:** Avançar
 - **Tecla S:** Recuar
