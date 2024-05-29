@@ -4,7 +4,7 @@
 PlatformerQuest é um jogo de plataforma clássico onde o jogador deve navegar através de diversos níveis desafiadores, coletando itens e derrotando inimigos para alcançar o objetivo final. O jogo combina elementos de ação e estratégia, proporcionando uma experiência emocionante para jogadores de todas as idades.
 
 ## Progresso
-Status atual do projeto: Em Andamento
+fase 1 adicionada junto com os sprites que serão usados do player principal
 
 ## Tecnologias e IDE Utilizadas
 - Unity
